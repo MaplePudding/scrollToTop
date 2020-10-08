@@ -1,2 +1,2 @@
 # scrollToTop
-Use js to achieve smooth scrolling to the top
+Use js to achieve smooth scroll to top
